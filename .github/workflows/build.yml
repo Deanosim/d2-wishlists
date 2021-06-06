@@ -36,7 +36,7 @@ jobs:
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
             git add $GITHUB_WORKSPACE/master.txt
-            git commit -m "Add changes" -a
+            git diff --quiet && git diff --staged --quiet || git commit -m "Add changes" -a
             git diff --quiet && git diff --staged --quiet || git push
       #- name: Push changes
       #  uses: ad-m/github-push-action@master
