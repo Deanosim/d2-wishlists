@@ -10,3 +10,4 @@ awk '!a[$0]++' input.txt > output.txt
 
 echo "cleanup"
 rm Season%2014%20Community%20Favs choosy_voltron.txt
+mv output.txt ../output.txt
