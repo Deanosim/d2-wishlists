@@ -42,6 +42,7 @@ jobs:
             git add $GITHUB_WORKSPACE/master.txt
             git commit -m "Add changes" -a
       - name: Push changes
+        if: steps.git-check.outputs.modified == 'true'
         uses: ad-m/github-push-action@master
         with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
