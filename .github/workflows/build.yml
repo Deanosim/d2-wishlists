@@ -31,7 +31,11 @@ jobs:
           cd $GITHUB_WORKSPACE/build
           sh build.sh
           
-      - name: Commit files
+      - name: Check for modified files
+        id: git-check
+        run: echo ::set-output name=modified::$([ -z "`git status --porcelain`" ] && echo "false" || echo "true")
+      - name: Commit latest release version
+        if: steps.git-check.outputs.modified == 'true'
         run: |
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
@@ -42,4 +46,3 @@ jobs:
         with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
             branch: ${{ github.ref }}
-          
