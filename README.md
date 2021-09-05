@@ -5,7 +5,7 @@ WIP Combined merged automatically updated weapon roll wishlist
 
 - Just put `https://raw.githubusercontent.com/Deanosim/d2-wishlists/main/dim-master.txt` into DIM(Destiny Item Manager) and it'll auto update.
 
-- Just put ll-master.txt (Coming Soon™) into Little Light.
+- Just put `https://raw.githubusercontent.com/Deanosim/d2-wishlists/main/ll-master.txt` into Little Light.
 
 ## How to build wishlists
 
