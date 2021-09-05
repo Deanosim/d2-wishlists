@@ -10,5 +10,5 @@ awk '!a[$0]++' input.txt > output.txt
 
 echo "cleanup"
 rm u_Ken-as-fuck_SotL_Wishlist.txt choosy_voltron.txt input.txt
-cp output.txt ../master.txt
+cp output.txt ../dim-master.txt
 rm output.txt
