@@ -6,7 +6,8 @@ echo "Combine all wishlists into one output.txt"
 cat choosy_voltron.txt u_Ken-as-fuck_SotL_Wishlist.txt > input.txt
 
 echo "Remove all duplicate lines"
-awk '!a[$0]++' input.txt > output.txt
+#awk '!a[$0]++' input.txt > output.txt
+cp input.txt output.txt
 
 echo "cleanup"
 rm u_Ken-as-fuck_SotL_Wishlist.txt choosy_voltron.txt input.txt
