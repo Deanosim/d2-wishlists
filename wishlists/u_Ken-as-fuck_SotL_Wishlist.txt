@@ -96,7 +96,7 @@ dimwishlist:item=829330711&perks=2846385770,124408337
 
 
 // The Comedian - The Comedian (NF) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW -  tags:mnk,pve
+//notes: u/Ken-as-fuck Recommended MW -  tags:mnk,pve
 dimwishlist:item=1028582252&perks=1556840489,4049631843
 dimwishlist:item=1028582252&perks=1556840489,2360754333
 dimwishlist:item=1028582252&perks=1556840489,1546637391
@@ -109,7 +109,7 @@ dimwishlist:item=1028582252&perks=3096702027,1546637391
 
 
 // Forge's Pledge - Forge's Pledge (IB) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Reload/Handling tags:mnk,pve
+//notes: u/Ken-as-fuck Recommended MW - Range/Reload/Handling tags:mnk,pve
 dimwishlist:item=1076810832&perks=3436462433,3592538738
 dimwishlist:item=1076810832&perks=3436462433,3425386926
 dimwishlist:item=1076810832&perks=3436462433,2458213969
@@ -119,7 +119,7 @@ dimwishlist:item=1076810832&perks=1570042021,2458213969
 
 
 // Servant Leader - Servant Leader (Playlist/Gambit) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Stability/Reload tags:mnk,pve
+//notes: u/Ken-as-fuck Recommended MW - Range/Stability/Reload tags:mnk,pve
 dimwishlist:item=1107446438&perks=1354429876,3425386926
 dimwishlist:item=1107446438&perks=1354429876,1015611457
 dimwishlist:item=1107446438&perks=1354429876,3592538738
@@ -148,7 +148,7 @@ dimwishlist:item=1107446438&perks=247725512,4104185692
 
 
 // Chrysura Melo - Chrysura Melo (SotL Engrams) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Stability/Reload/Range tags:mnk,pve
+//notes: u/Ken-as-fuck Recommended MW - Stability/Reload/Range tags:mnk,pve
 dimwishlist:item=1337707096&perks=1570042021,3523296417
 dimwishlist:item=1337707096&perks=1570042021,2458213969
 dimwishlist:item=1337707096&perks=1570042021,4104185692
@@ -187,7 +187,7 @@ dimwishlist:item=1476654960&perks=588594999,47981717
 
 
 // Vulpecula - Vulpecula (SotL Engram) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Reload/Handling tags:mnk,pve
+//notes: u/Ken-as-fuck Recommended MW - Range/Reload/Handling tags:mnk,pve
 dimwishlist:item=1622998472&perks=3700496672,3673922083
 dimwishlist:item=1622998472&perks=3700496672,47981717
 dimwishlist:item=1622998472&perks=3700496672,3038247973
