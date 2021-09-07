@@ -1,8 +1,8 @@
-title:u/Ken-as-fuck Season of the Lost Wishlist
+title:u/Ken-as-fuck (SotL)Season of the Lost Wishlist
 description:SotL New, Reprised, and Re-issued Weapons
 
 // Annual Skate (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Reload/Handling tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Range/Reload/Handling tags:mnk,pve
 dimwishlist:item=6857689&perks=1168162263,47981717
 dimwishlist:item=6857689&perks=1168162263,1954620775
 dimwishlist:item=6857689&perks=1168162263,2848615171
@@ -15,7 +15,7 @@ dimwishlist:item=6857689&perks=3400784728,2848615171
 
 
 // Punching Out - Punching Out (Playlist/Vanguard) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Stability/Reload/Range tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Stability/Reload/Range tags:mnk,pve
 dimwishlist:item=378498222&perks=3643424744,4082225868
 dimwishlist:item=378498222&perks=3643424744,4104185692
 dimwishlist:item=378498222&perks=3643424744,1015611457
@@ -44,7 +44,7 @@ dimwishlist:item=378498222&perks=2846385770,3708227201
 
 
 // The Last Breath - The Last Breath (Prophecy) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Stability/Reload tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Range/Stability/Reload tags:mnk,pve
 dimwishlist:item=507038823&perks=3523296417,4104185692
 dimwishlist:item=507038823&perks=3523296417,4049631843
 dimwishlist:item=507038823&perks=3523296417,2846385770
@@ -57,7 +57,7 @@ dimwishlist:item=507038823&perks=1820235745,2846385770
 
 
 // Contingency Plan (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Reload/Handling tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Range/Reload/Handling tags:mnk,pve
 dimwishlist:item=577528837&perks=1168162263,4104185692
 dimwishlist:item=577528837&perks=1168162263,1015611457
 dimwishlist:item=577528837&perks=1168162263,4049631843
@@ -70,7 +70,7 @@ dimwishlist:item=577528837&perks=3436462433,4049631843
 
 
 // Scathelocke (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Stability/Reload tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Range/Stability/Reload tags:mnk,pve
 dimwishlist:item=602618796&perks=3436462433,2458213969
 dimwishlist:item=602618796&perks=3436462433,3425386926
 dimwishlist:item=602618796&perks=3436462433,699525795
@@ -83,7 +83,7 @@ dimwishlist:item=602618796&perks=1820235745,699525795
 
 
 // Peacebond - Peacebond (IB) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Stability/Reload/Range tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Stability/Reload/Range tags:mnk,pve
 dimwishlist:item=829330711&perks=1820235745,4082225868
 dimwishlist:item=829330711&perks=1820235745,3523296417
 dimwishlist:item=829330711&perks=1820235745,124408337
@@ -109,7 +109,7 @@ dimwishlist:item=1028582252&perks=3096702027,1546637391
 
 
 // Forge's Pledge - Forge's Pledge (IB) (mnk,pve)
-//notes: u/Ken-as-fuck Recommended MW - Range/Reload/Handling tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL)Recommended MW - Range/Reload/Handling tags:mnk,pve
 dimwishlist:item=1076810832&perks=3436462433,3592538738
 dimwishlist:item=1076810832&perks=3436462433,3425386926
 dimwishlist:item=1076810832&perks=3436462433,2458213969
@@ -119,7 +119,7 @@ dimwishlist:item=1076810832&perks=1570042021,2458213969
 
 
 // Servant Leader - Servant Leader (Playlist/Gambit) (mnk,pve)
-//notes: u/Ken-as-fuck Recommended MW - Range/Stability/Reload tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL)Recommended MW - Range/Stability/Reload tags:mnk,pve
 dimwishlist:item=1107446438&perks=1354429876,3425386926
 dimwishlist:item=1107446438&perks=1354429876,1015611457
 dimwishlist:item=1107446438&perks=1354429876,3592538738
@@ -148,7 +148,7 @@ dimwishlist:item=1107446438&perks=247725512,4104185692
 
 
 // Chrysura Melo - Chrysura Melo (SotL Engrams) (mnk,pve)
-//notes: u/Ken-as-fuck Recommended MW - Stability/Reload/Range tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL)Recommended MW - Stability/Reload/Range tags:mnk,pve
 dimwishlist:item=1337707096&perks=1570042021,3523296417
 dimwishlist:item=1337707096&perks=1570042021,2458213969
 dimwishlist:item=1337707096&perks=1570042021,4104185692
@@ -161,7 +161,7 @@ dimwishlist:item=1337707096&perks=1354429876,4104185692
 
 
 // Reed's Regret - Reed's Regret (Trials) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Handling/Reload/Range tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Handling/Reload/Range tags:mnk,pve
 dimwishlist:item=1399243961&perks=706527188,1771339417
 dimwishlist:item=1399243961&perks=706527188,1546637391
 dimwishlist:item=1399243961&perks=706527188,438098033
@@ -174,7 +174,7 @@ dimwishlist:item=1399243961&perks=3400784728,438098033
 
 
 // Judgment - Judgement (Prophecy) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Reload/Handling tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Range/Reload/Handling tags:mnk,pve
 dimwishlist:item=1476654960&perks=1195158366,1954620775
 dimwishlist:item=1476654960&perks=1195158366,2458213969
 dimwishlist:item=1476654960&perks=1195158366,47981717
@@ -187,7 +187,7 @@ dimwishlist:item=1476654960&perks=588594999,47981717
 
 
 // Vulpecula - Vulpecula (SotL Engram) (mnk,pve)
-//notes: u/Ken-as-fuck Recommended MW - Range/Reload/Handling tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL)Recommended MW - Range/Reload/Handling tags:mnk,pve
 dimwishlist:item=1622998472&perks=3700496672,3673922083
 dimwishlist:item=1622998472&perks=3700496672,47981717
 dimwishlist:item=1622998472&perks=3700496672,3038247973
@@ -200,7 +200,7 @@ dimwishlist:item=1622998472&perks=1195158366,3038247973
 
 
 // A Swift Verdict - A Swift Verdict (Prophecy) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Stability/Reload/Range tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Stability/Reload/Range tags:mnk,pve
 dimwishlist:item=1626503676&perks=4071163871,3592538738
 dimwishlist:item=1626503676&perks=4071163871,1015611457
 dimwishlist:item=1626503676&perks=4071163871,3708227201
@@ -213,7 +213,7 @@ dimwishlist:item=1626503676&perks=2450788523,3708227201
 
 
 // Canis Major - Canis Major (SotL Engrams) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Handling/Reload/Velocity tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Handling/Reload/Velocity tags:mnk,pve
 dimwishlist:item=2066434718&perks=2869569095,3425386926
 dimwishlist:item=2066434718&perks=2869569095,1546637391
 dimwishlist:item=2066434718&perks=2869569095,2396489472
@@ -226,7 +226,7 @@ dimwishlist:item=2066434718&perks=951095735,2396489472
 
 
 // Darkest Before - Darkest Before (Prophecy) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Reload/Handling tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Range/Reload/Handling tags:mnk,pve
 dimwishlist:item=2481758391&perks=3436462433,4049631843
 dimwishlist:item=2481758391&perks=3436462433,3592538738
 dimwishlist:item=2481758391&perks=3436462433,3425386926
@@ -239,7 +239,7 @@ dimwishlist:item=2481758391&perks=1820235745,3425386926
 
 
 // Sorrow's Verse - Sorrow's Verse (Crucible/Playlist) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Range/Reload/Handling tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Range/Reload/Handling tags:mnk,pve
 dimwishlist:item=2496875173&perks=1195158366,3523296417
 dimwishlist:item=2496875173&perks=1195158366,3592538738
 dimwishlist:item=2496875173&perks=1195158366,4104185692
@@ -268,7 +268,7 @@ dimwishlist:item=2496875173&perks=1168162263,3425386926
 
 
 // Spoiler Alert (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Stability/Reload/Range tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Stability/Reload/Range tags:mnk,pve
 dimwishlist:item=2588048270&perks=2779035018,3523296417
 dimwishlist:item=2588048270&perks=2779035018,4104185692
 dimwishlist:item=2588048270&perks=2779035018,4082225868
@@ -281,7 +281,7 @@ dimwishlist:item=2588048270&perks=4071163871,4082225868
 
 
 // A Sudden Death - A Sudden Death (Prophecy) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Handling/Range/Reload tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Handling/Range/Reload tags:mnk,pve
 dimwishlist:item=2855157553&perks=4071163871,3592538738
 dimwishlist:item=2855157553&perks=4071163871,2679249093
 dimwishlist:item=2855157553&perks=4071163871,3708227201
@@ -294,7 +294,7 @@ dimwishlist:item=2855157553&perks=3436462433,3708227201
 
 
 // Iota Draconis - Iota Draconis (SotL Engrams) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Stability/Range/Reload tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Stability/Range/Reload tags:mnk,pve
 dimwishlist:item=3044460004&perks=2779035018,4104185692
 dimwishlist:item=3044460004&perks=2779035018,438098033
 dimwishlist:item=3044460004&perks=2779035018,2213355989
@@ -307,7 +307,7 @@ dimwishlist:item=3044460004&perks=3436462433,2213355989
 
 
 // Fractethyst - Fractethyst (SotL Engrams) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Handling/Reload/Range tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Handling/Reload/Range tags:mnk,pve
 dimwishlist:item=3184681056&perks=706527188,47981717
 dimwishlist:item=3184681056&perks=706527188,3673922083
 dimwishlist:item=3184681056&perks=706527188,2360754333
@@ -320,7 +320,7 @@ dimwishlist:item=3184681056&perks=1556840489,2360754333
 
 
 // The Long Walk - The Long Walk (Prophecy) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Handling/Range/Reload tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Handling/Range/Reload tags:mnk,pve
 dimwishlist:item=3326850591&perks=1168162263,1771339417
 dimwishlist:item=3326850591&perks=1168162263,957782887
 dimwishlist:item=3326850591&perks=1168162263,588594999
@@ -333,7 +333,7 @@ dimwishlist:item=3326850591&perks=3643424744,588594999
 
 
 // Legal Action II (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Reload/Stability/Range tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Reload/Stability/Range tags:mnk,pve
 dimwishlist:item=3409645497&perks=3436462433,3425386926
 dimwishlist:item=3409645497&perks=3436462433,3592538738
 dimwishlist:item=3409645497&perks=3436462433,4104185692
@@ -346,7 +346,7 @@ dimwishlist:item=3409645497&perks=588594999,4104185692
 
 
 // Wolftone Draw - Wolftone Draw (SotL Engram) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - DrawTime/Accuracy/Stability tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - DrawTime/Accuracy/Stability tags:mnk,pve
 dimwishlist:item=3472875143&perks=951095735,2848615171
 dimwishlist:item=3472875143&perks=951095735,3673922083
 dimwishlist:item=3472875143&perks=951095735,4104185692
@@ -359,7 +359,7 @@ dimwishlist:item=3472875143&perks=3700496672,4104185692
 
 
 // Shepherd's Watch (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Handling/Range/Reload tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Handling/Range/Reload tags:mnk,pve
 dimwishlist:item=3743729616&perks=1556840489,1771339417
 dimwishlist:item=3743729616&perks=1556840489,47981717
 dimwishlist:item=3743729616&perks=1556840489,957782887
@@ -372,7 +372,7 @@ dimwishlist:item=3743729616&perks=588594999,957782887
 
 
 // The Hothead - The Hothead (NF) (mnk,pve)
-//notes: u/Ken-as-fuck (SotL New, Reprised, and Re-issued Weapons) Recommended MW - Handling/Reload/Velocity tags:mnk,pve
+//notes: u/Ken-as-fuck (SotL) Recommended MW - Handling/Reload/Velocity tags:mnk,pve
 dimwishlist:item=4255171531&perks=3977735242,2284787283
 dimwishlist:item=4255171531&perks=3977735242,1546637391
 dimwishlist:item=4255171531&perks=3977735242,3194351027
