@@ -1,5 +1,7 @@
 # d2-wishlists
 
+## I no longer play Destiny 2 and haven't since awhile after the end of the Witness, so I'm archiving this Repo
+
 [![CI](https://github.com/Deanosim/d2-wishlists/actions/workflows/build.yml/badge.svg)](https://github.com/Deanosim/d2-wishlists/actions/workflows/build.yml)
 WIP Combined merged automatically updated weapon roll wishlist
 
